@@ -3,13 +3,13 @@
 - Clone this repo and install all dependencies
 
 ```shell
- git clone https://github.com/GDSC-UIT/sese.git
+git clone https://github.com/GDSC-UIT/sese.git
 
- cd sese
+cd sese
  
- cd sese-backend
+cd sese-backend
 
- yarn install
+yarn install
 ```
 
 - Run in development enviroment
