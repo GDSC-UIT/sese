@@ -3,9 +3,11 @@
 - Clone this repo and install all dependencies
 
 ```shell
- git clone https://github.com/ychengcloud/react-vite-admin.git
+ git clone https://github.com/GDSC-UIT/sese.git
 
- cd react-vite-admin
+ cd sese
+ 
+ cd sese-backend
 
  yarn install
 ```
