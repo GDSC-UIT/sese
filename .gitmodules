@@ -1,0 +1,6 @@
+[submodule "sese-mobile"]
+	path = sese-mobile
+	url = https://github.com/GDSC-UIT/sese-mobile
+[submodule "sese-backend"]
+	path = sese-backend
+	url = https://github.com/GDSC-UIT/sese-backend
